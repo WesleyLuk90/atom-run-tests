@@ -1,0 +1,13 @@
+{
+    "name": "atom-run-tests",
+    "main": "./lib/atom-run-tests",
+    "version": "0.0.0",
+    "description": "A short description of your package",
+    "keywords": [],
+    "repository": "https://github.com/atom/atom-run-tests",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {}
+}
